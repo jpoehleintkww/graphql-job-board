@@ -17,3 +17,6 @@ To access the playground go to: http://localhost:[yourport]/graphql
 - npm start
 
 To access the front go to: http://localhost:[yourport]
+
+## Suggestions
+If you are using visual studio code I suggest using a split-terminal. Run the client on one side and the server on the other side.
