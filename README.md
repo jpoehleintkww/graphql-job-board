@@ -19,6 +19,11 @@ To access the playground go to: http://localhost:[yourport]/graphql
 
 To access the front go to: http://localhost:[yourport]
 
+## Plugins
+[SQLLite Plugin](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite)
+- After installing run command Open Database and open the provided sqllite db in the project.
+- You can find this in the file explorer under the collapsible "SQLITE EXPLORER"
+
 ## Suggestions
 If you are using visual studio code I suggest using a split-terminal. Run the client on one side and the server on the other side.
 
